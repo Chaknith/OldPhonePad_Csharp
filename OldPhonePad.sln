@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePad", "OldPhonePad\OldPhonePad.csproj", "{2C320958-8121-41A6-812F-5BB7E782416E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{43977F67-FD39-4B68-B7E9-E7AF3E6729AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C320958-8121-41A6-812F-5BB7E782416E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C320958-8121-41A6-812F-5BB7E782416E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C320958-8121-41A6-812F-5BB7E782416E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C320958-8121-41A6-812F-5BB7E782416E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43977F67-FD39-4B68-B7E9-E7AF3E6729AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43977F67-FD39-4B68-B7E9-E7AF3E6729AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43977F67-FD39-4B68-B7E9-E7AF3E6729AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43977F67-FD39-4B68-B7E9-E7AF3E6729AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5A046D-F0D6-4B6C-871C-B781ABAB0EA2}
+	EndGlobalSection
+EndGlobal

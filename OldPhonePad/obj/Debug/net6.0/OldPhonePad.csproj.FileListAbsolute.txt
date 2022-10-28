@@ -1,0 +1,15 @@
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\bin\Debug\net6.0\OldPhonePad.exe
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\bin\Debug\net6.0\OldPhonePad.deps.json
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\bin\Debug\net6.0\OldPhonePad.runtimeconfig.json
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\bin\Debug\net6.0\OldPhonePad.dll
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\bin\Debug\net6.0\OldPhonePad.pdb
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.csproj.AssemblyReference.cache
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.AssemblyInfoInputs.cache
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.AssemblyInfo.cs
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.csproj.CoreCompileInputs.cache
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.dll
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\refint\OldPhonePad.dll
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.pdb
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\OldPhonePad.genruntimeconfig.cache
+C:\Users\chakn\source\repos\OldPhonePad\OldPhonePad\obj\Debug\net6.0\ref\OldPhonePad.dll
