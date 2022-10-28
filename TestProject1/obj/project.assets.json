@@ -6114,9 +6114,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chakn\\source\\repos\\OldPhonePad\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\chakn\\source\\repos\\OldPhonePad\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\chakn\\source\\repos\\OldPhonePad\\TestProject1\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "C:\\Users\\chakn\\source\\repos\\OldPhonePad\\TestProject1\\Test.csproj",
       "packagesPath": "C:\\Users\\chakn\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\chakn\\source\\repos\\OldPhonePad\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",

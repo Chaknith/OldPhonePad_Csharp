@@ -54,7 +54,7 @@ namespace OldPhonePad
             {
                 if (Data[pointer] == '*' && previous == '*')
                 {
-                    finalStr = finalStr[:-1:];
+                    finalStr = finalStr.Substring(0,finalStr.Length-1);
                 }
                 else if (Data[pointer] == '*')
                 {
@@ -71,13 +71,12 @@ namespace OldPhonePad
                 {
                     if (previous != ' ' && previous != '*')
                     {
-                        finalStr += lookUpTable[int(previous)][count];
+                        finalStr += lookUpTable[(int)previous][count];
                     }
                     count = 0;
                     previous = Data[pointer];
                 }
                 pointer += 1;
-
             }
             return finalStr;
         }
